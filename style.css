@@ -8,7 +8,7 @@
     font-size: 70px;
     line-height: 40px;
   }
-  .describe_future {
+  .describefuture {
     width: 1000px;
     height: 406px;
     left: 100px;
@@ -383,7 +383,7 @@
     position: absolute;
   }
 
-  .describe_future {
+  .describefuture {
     font-weight: 300;
     font-size: 15px;
     line-height: 18px;
