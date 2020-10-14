@@ -8,7 +8,7 @@
     font-size: 70px;
     line-height: 40px;
   }
-  .describe_future {
+  .describefuture {
     width: 1000px;
     height: 406px;
     left: 100px;
@@ -35,7 +35,7 @@
   .testdrive {
     visibility: hidden;
   }
-  .testdrive2 {
+  .testdrivescnd {
     visibility: hidden;
   }
   .orderbox {
@@ -67,13 +67,13 @@
     left: 100px;
     top: 330px;
   }
-  .tesla_wordmark_big {
+  .teslawordmarkbig {
       left: -70px;
       width: 1414px;
       height: 467px;
       top: 180px;
   }
-  .tesla_wordmark {
+  .teslawordmark {
     position: absolute;
     width: 450px;
     height: 140px;
@@ -132,7 +132,7 @@
   .join {
     visibility: hidden;
   }
-  .rectangle2 {
+  .rectanglescnd {
     position: absolute;
     width: 1300px;
     height: 1000px;
@@ -191,27 +191,27 @@
     visibility: hidden;
   }
 
-  .starline1 {
+  .starline {
     visibility: hidden;
   }
 
-  .star1 {
+  .star {
     left: 257px;
   }
 
-  .star2 {
+  .starsecond {
     left: 286px;
   }
 
-  .star3 {
+  .starthird {
     left: 315px;
   }
 
-  .star4 {
+  .starfourth {
     left: 344px;
   }
 
-  .star5 {
+  .starfifth {
     left: 372px;
   }
 
@@ -219,11 +219,11 @@
     visibility: hidden;
   }
 
-  .starline2 {
+  .starlinescnd {
     visibility: hidden;
   }
 
-  .sideprotection2 {
+  .sideprotectionscnd {
     visibility: hidden;
   }
 
@@ -231,7 +231,7 @@
     visibility: hidden;
   }
 
-  .starline3 {
+  .starlinethrd {
     visibility: hidden;
   }
 
@@ -239,11 +239,11 @@
     visibility: hidden;
   }
 
-  .starline4 {
+  .starlinefrth {
     visibility: hidden;
   }
 
-  .starline5 {
+  .starlinefifth {
     visibility: hidden;
   }
 
@@ -264,11 +264,11 @@
     visibility: hidden;
   }
 
-  .infocircle2 {
+  .infocirclescnd {
     visibility: hidden;
   }
 
-  .infoi2 {
+  .infoiscnd {
     visibility: hidden;
   }
 
@@ -276,11 +276,11 @@
     visibility: hidden;
   }
 
-  .orderbox3 {
+  .orderboxthrd {
     visibility: hidden;
   }
 
-  .order3 {
+  .orderthrd {
     visibility: hidden;
   }
 
@@ -301,36 +301,36 @@
     width: 4px;
   }
 
-  .circle1 {
+  .circle {
     left: 705.5px;
     top: 3630px;
   }
 
-  .circle2 {
+  .circlescnd {
     left: 343px;
     top: 3525px;
   }
 
-  .circle3 {
+  .circlethrd {
     left: 645.5px;
     top: 3314px;
   }
 
-  .stick1 {
+  .stick {
     height: 138px;
     left: 711px;
     top: 3640px;
     transform: rotate(-180deg);
   }
 
-  .stick2 {
+  .stickscnd {
     width: 4px;
     height: 301px;
     left: 348px;
     top: 3227px;
   }
 
-  .stick3 {
+  .stickthrd {
     width: 4px;
     height: 152px;
     left: 650px;
@@ -383,7 +383,7 @@
     position: absolute;
   }
 
-  .describe_future {
+  .describefuture {
     font-weight: 300;
     font-size: 15px;
     line-height: 18px;
@@ -446,13 +446,13 @@
       left: 250px;
       top: 278px;
     }
-  .tesla_wordmark_big {
+  .teslawordmarkbig {
       left: 42.72px;
       width: 1814px;
       height: 767px;
       top: 4px;
   }
-  .tesla_wordmark {
+  .teslawordmark {
     position: absolute;
     width: 166px;
     height: 51px;
@@ -511,7 +511,7 @@
   .join {
     visibility: visible;
   }
-  .rectangle2 {
+  .rectanglescnd {
     position: absolute;
     width: 600px;
     height: 900px;
@@ -582,7 +582,7 @@
     visibility: visible;
   }
 
-  .starline1 {
+  .starline {
     position: absolute;
     width: 25px;
     height: 25px;
@@ -590,23 +590,23 @@
     visibility: visible;
   }
 
-  .star1 {
+  .star {
     left: 257px;
   }
 
-  .star2 {
+  .starsecond {
     left: 286px;
   }
 
-  .star3 {
+  .starthird {
     left: 315px;
   }
 
-  .star4 {
+  .starfourth {
     left: 344px;
   }
 
-  .star5 {
+  .starfifth {
     left: 372px;
   }
 
@@ -622,7 +622,7 @@
     visibility: visible;
   }
 
-  .starline2 {
+  .starlinescnd {
     position: absolute;
     width: 25px;
     height: 25px;
@@ -630,7 +630,7 @@
     visibility: visible;
   }
 
-  .sideprotection2 {
+  .sideprotectionscnd {
     width: 64px;
     height: 21px;
     left: 106px;
@@ -654,7 +654,7 @@
     visibility: visible;
   }
 
-  .starline3 {
+  .starlinethrd {
     position: absolute;
     width: 25px;
     height: 25px;
@@ -674,7 +674,7 @@
     visibility: visible;
   }
 
-  .starline4 {
+  .starlinefrth {
     position: absolute;
     width: 25px;
     height: 25px;
@@ -682,7 +682,7 @@
     visibility: visible;
   }
 
-  .starline5 {
+  .starlinefifth {
     position: absolute;
     width: 25px;
     height: 25px;
@@ -726,7 +726,7 @@
     visibility: visible;
   }
 
-  .infocircle2 {
+  .infocirclescnd {
     position: absolute;
     left: 88px;
     top: 2808px;
@@ -738,7 +738,7 @@
     visibility: visible;
   }
 
-  .infoi2 {
+  .infoiscnd {
     left: 97px;
     top: 2811px;
     height: 16px;
@@ -763,7 +763,7 @@
     visibility: visible;
   }
 
-  .orderbox3 {
+  .orderboxthrd {
     position: absolute;
     left: 325px;
     top: 2800px;
@@ -774,7 +774,7 @@
     visibility: visible;
   }
 
-  .order3 {
+  .orderthrd {
     left: 332px;
     top: 2811px;
     height: 24px;
@@ -804,36 +804,36 @@
     width: 4px;
   }
 
-  .circle1 {
+  .circle {
     left: 1155.5px;
     top: 2630px;
   }
 
-  .circle2 {
+  .circlescnd {
     left: 793px;
     top: 2525px;
   }
 
-  .circle3 {
+  .circlethrd {
     left: 1095.5px;
     top: 2314px;
   }
 
-  .stick1 {
+  .stick {
     height: 108px;
     left: 1161px;
     top: 2640px;
     transform: rotate(-180deg);
   }
 
-  .stick2 {
+  .stickscnd {
     width: 4px;
     height: 271px;
     left: 798px;
     top: 2257px;
   }
 
-  .stick3 {
+  .stickthrd {
     width: 4px;
     height: 122px;
     left: 1100px;
@@ -874,11 +874,11 @@
   }
 }
 
-.tesla_wordmark {
+.teslawordmark {
   position: absolute;
 }
 
-.tesla_wordmark_big {
+.teslawordmarkbig {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -1027,7 +1027,7 @@
   color: #E51937;
 }
 
-.speedinfo2 {
+.speedinfoscnd {
   position: absolute;
   width: 51px;
   height: 43px;
@@ -1040,7 +1040,7 @@
   line-height: 43px;
 }
 
-.speedinfo3 {
+.speedinfothrd {
   position: absolute;
   width: 37px;
   height: 25px;
@@ -1053,7 +1053,7 @@
   line-height: 24px;
 }
 
-.speedinfo4 {
+.speedinfofrth {
   position: absolute;
   width: 90px;
   height: 15px;
@@ -1074,7 +1074,7 @@
   top: 858.5px;
 }
 
-.trail2 {
+.trailscnd {
   position: absolute;
   width: 63px;
   height: 43px;
@@ -1087,7 +1087,7 @@
   line-height: 43px;
 }
 
-.trail3 {
+.trailthrd {
   position: absolute;
   width: 29px;
   height: 25px;
@@ -1100,7 +1100,7 @@
   line-height: 24px;
 }
 
-.trail4 {
+.trailfrth {
   position: absolute;
   width: 120px;
   height: 15px;
@@ -1121,7 +1121,7 @@
   top: 864px;
 }
 
-.testdrive2 {
+.testdrivescnd {
   position: absolute;
   width: 120px;
   height: 18px;
@@ -1175,7 +1175,7 @@
   visibility: visible;
 }
 
-.display1 {
+.display {
   position: absolute;
   width: 36px;
   height: 53px;
@@ -1186,7 +1186,7 @@
   border-radius: 5px;
 }
 
-.display2 {
+.displayscnd {
   position: absolute;
   width: 9px;
   height: 9px;
@@ -1252,7 +1252,7 @@
   z-index: 10;
 }
 
-.standart2 {
+.standartscnd {
   color: black;
   font-family: Montserrat;
   font-style: normal;
@@ -1270,7 +1270,7 @@
   line-height: 15px;
 }
 
-.case1 {
+.case {
   position: absolute;
   width: 36px;
   height: 44px;
@@ -1281,7 +1281,7 @@
   border-radius: 5px;
 }
 
-.case2 {
+.casescnd {
   position: absolute;
   width: 18px;
   height: 12px;
@@ -1292,7 +1292,7 @@
   border-radius: 5px 5px 0px 0px;
 }
 
-.volume1 {
+.volume {
   width: 69px;
   height: 43px;
   left: 1397px;
@@ -1302,7 +1302,7 @@
   line-height: 43px;
 }
 
-.volume2 {
+.volumescnd {
   width: 63px;
   height: 25px;
   left: 1476px;
@@ -1355,7 +1355,7 @@
   text-transform: uppercase;
 }
 
-.orderbox2 {
+.orderboxscnd {
   position: absolute;
   left: 1521px;
   top: 1897;
@@ -1365,7 +1365,7 @@
   box-sizing: border-box;
 }
 
-.order2 {
+.orderscnd {
   left: 1528px;
   top: 1908px;
   height: 24px;
